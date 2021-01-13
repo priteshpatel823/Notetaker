@@ -1,0 +1,23 @@
+{
+  "name": "note-taker",
+  "version": "1.0.0",
+  "description": "Note tracker using express",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/priteshpatel823/Notetaker.git"
+  },
+  "author": "Pritesh Patel",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/priteshpatel823/Notetaker/issues"
+  },
+  "homepage": "https://github.com/priteshpatel823/Notetaker#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "fs": "0.0.1-security"
+  }
+}
