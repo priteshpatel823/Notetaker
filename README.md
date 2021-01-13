@@ -10,7 +10,7 @@
   - [License](#license)
 
 ## General Info
-This project is an application that can be used to write, save, and delete notes. It uses an express backend and saves and retrieves note data from a JSON file. \
+This project is an application that can be used to write, save, and delete notes. It uses an express backend and saves and retrieves note data from a JSON file.
 
 ## Technologies
 This project is created with: 
